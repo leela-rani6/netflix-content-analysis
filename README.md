@@ -1,4 +1,4 @@
-# netflix-content-analysis
+# Netflix-content-analysis
 ## Project Overview
 Analysis of Netflix's content library to uncover trends in content type, country of origin, genre distribution, and growth patterns over time.
 

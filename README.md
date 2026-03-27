@@ -25,8 +25,8 @@ Analysis of Netflix's content library to uncover trends in content type, country
   - International TV Shows
 - July (7th month) has the highest number of content additions, indicating a seasonal release pattern.
 - Netflix started adding content around 2008
-  - From 2008 to 2019 → steady growth in content additions
-  - From 2019 to 2021 → noticeable decline
+  - From 2008 to 2019, steady growth in content additions
+  - From 2019 to 2021, noticeable decline
   
   This could be due to:
   - Market saturation
